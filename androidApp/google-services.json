@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "1016384724858",
+    "project_id": "kampungpedia-48b27",
+    "storage_bucket": "kampungpedia-48b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016384724858:android:b4aee4ec7ae705d8c740c3",
+        "android_client_info": {
+          "package_name": "com.kampungpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016384724858-rg7pe04qkr6bmnu26jccqj44jsrobrs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kampungpedia",
+            "certificate_hash": "d89745cb2b3345a3940e507393f50cb2ff5dbd9c"
+          }
+        },
+        {
+          "client_id": "1016384724858-bdlp6trelb6bh94nv3il1fhb4jf3266g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOOdb5cEx7yRlwq6DAEEm1rLbc_8gjSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016384724858-bdlp6trelb6bh94nv3il1fhb4jf3266g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016384724858:android:1f92fdca4b445884c740c3",
+        "android_client_info": {
+          "package_name": "com.kampungpedia.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016384724858-cmj5r5ia5in25nh7pc7ll9vr73k4glf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kampungpedia.android",
+            "certificate_hash": "d89745cb2b3345a3940e507393f50cb2ff5dbd9c"
+          }
+        },
+        {
+          "client_id": "1016384724858-bdlp6trelb6bh94nv3il1fhb4jf3266g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOOdb5cEx7yRlwq6DAEEm1rLbc_8gjSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016384724858-bdlp6trelb6bh94nv3il1fhb4jf3266g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

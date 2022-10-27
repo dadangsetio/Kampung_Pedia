@@ -1,0 +1,13 @@
+CREATE TABLE Banner (
+  id INTEGER NOT NULL,
+  banner TEXT NOT NULL
+);
+
+insertBanner:
+INSERT INTO Banner (id, banner) VALUES (?, ?);
+
+selectAll:
+SELECT * FROM Banner;
+
+deleteAll:
+DELETE FROM Banner;

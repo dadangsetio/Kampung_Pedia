@@ -1,0 +1,17 @@
+CREATE TABLE HistoryTransaction (
+    uuid TEXT NOT NULL,
+    titile TEXT NOT NULL,
+    total_amount INTEGER NOT NULL,
+    created_at TEXT NOT NULL,
+    status TEXT NOT NULL
+);
+
+insertTransaction:
+INSERT INTO HistoryTransaction (uuid, titile, total_amount, created_at, status)
+VALUES (?, ?, ?, ?, ?);
+
+selectTransactionAll:
+SELECT * FROM HistoryTransaction;
+
+deleteTransaction:
+DELETE FROM HistoryTransaction;

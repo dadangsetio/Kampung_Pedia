@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kampung Pedia</string>
+    <string name="web_client_id">1016384724858-bdlp6trelb6bh94nv3il1fhb4jf3266g.apps.googleusercontent.com</string>
+    <string name="auth_key">auth_key</string>
+</resources>
